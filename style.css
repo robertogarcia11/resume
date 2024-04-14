@@ -1,0 +1,49 @@
+@media print {
+    /* Hide non-essential elements */
+    body * {
+        display: none;
+    }
+
+    /* Show only the resume content */
+    body .resume {
+        display: block;
+    }
+
+    /* Set page margins and size */
+    @page {
+        margin: 1cm;
+        size: A4;
+    }
+
+    /* Style the resume content */
+    .resume {
+        font-family: Arial, sans-serif;
+        font-size: 12pt;
+        line-height: 1.5;
+        color: #333;
+    }
+
+    .resume h1 {
+        font-size: 18pt;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    .resume h2 {
+        font-size: 14pt;
+        font-weight: bold;
+        margin-bottom: 8px;
+    }
+
+    .resume p {
+        margin-bottom: 8px;
+    }
+
+    .resume ul {
+        margin-bottom: 8px;
+    }
+
+    .resume ul li {
+        margin-bottom: 4px;
+    }
+}
