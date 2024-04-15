@@ -27,17 +27,19 @@
         font-size: 18pt;
         font-weight: bold;
         margin-bottom: 10px;
-        color: rgb(255, 0, 0);
+        color: red;
     }
 
     .resume h2 {
         font-size: 14pt;
         font-weight: bold;
         margin-bottom: 8px;
+        color: red;
     }
 
     .resume p {
         margin-bottom: 8px;
+        color: red;
     }
 
     .resume ul {
