@@ -6,8 +6,7 @@
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/roberto-garcia-a63149230/)
 
 ## Summary
-A brief summary of your professional background and career goals.
-
+I am a reliable individual with a keen interest in tackling challenges head-on. As an aspiring software developer, I am driven by proactive leadership and a commitment to excellence in my work. I embrace change and am dedicated to continuously enhancing my skills in software development.
 ## Education
 - Degree: Bachelor of Science in Computer Science
 - University: Eastern Washington University
@@ -19,21 +18,26 @@ A brief summary of your professional background and career goals.
 - Version Control: Git, GitHub
 
 ## Experience
-### Company Name
-- Position: Software Engineer
-- Dates: Month Year - Month Year
-- Description: A brief description of your responsibilities and achievements.
+### Amazon Fulfillment Center 
+- Position: Assosiate
+- Dates: September 2023 - Current
+- Description: Organize incoming inventory according to warehouse standards, ensuring efficient storage. Collaborating with team members, we maintained accuracy and optimized workflow for timely item stowing, aiding easy retrieval for pickers.
+### Nuestras Racies HBPA
+- Position: IT Intern
+- Dates: June 2021 - January 2024
+- Description: I designed branding materials such as websites, logos, and business cards. Additionally, I managed the organization's online presence across website and social media platforms.
 
 ## Projects
-### Project Name
-- Description: A brief description of the project and your role in it.
-- Technologies Used: List the technologies used in the project.
+### Donut Parade
+- Description: For our senior project, we are creating a website for local shop, DonutParade. The store website will allow online and pickup orders as well as keep track of inventory. My role for this project, is front-end, meaning I am working on the design and implementation of the store website.
+- Technologies Used: React, Vite, VS Code
 
 ## Certifications
-- Certification Name: Issuing Organization, Year
+- N/A
 
 ## Interests
-- List any relevant hobbies or interests related to your field.
+- Problem-solving through coding puzzles and challenges.
+- Exploring new programming languages and technologies.
 
 ## References
 Available upon request.
