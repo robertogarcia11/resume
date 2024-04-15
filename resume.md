@@ -1,17 +1,17 @@
-# Your Name
+# Roberto Garcia
 
 ## Contact Information
-- Email: your.email@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: Robertogarciaa856@gmail.com
+- Phone: (509) 905-0385
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/roberto-garcia-a63149230/)
 
 ## Summary
 A brief summary of your professional background and career goals.
 
 ## Education
 - Degree: Bachelor of Science in Computer Science
-- University: XYZ University
-- Year: 20XX
+- University: Eastern Washington University
+- Year: 2024
 
 ## Skills
 - Programming Languages: Python, Java, C++
