@@ -27,6 +27,8 @@ I am a reliable individual with a keen interest in tackling challenges head-on. 
 - Dates: June 2021 - January 2024
 - Description: I designed branding materials such as websites, logos, and business cards. Additionally, I managed the organization's online presence across website and social media platforms.
 
+
+
 ## Projects
 ### Donut Parade
 - Description: For our senior project, we are creating a website for local shop, DonutParade. The store website will allow online and pickup orders as well as keep track of inventory. My role for this project, is front-end, meaning I am working on the design and implementation of the store website.
